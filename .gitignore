@@ -9,3 +9,11 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Database files
+basic_company.db
+ecommerce.db
+reviews.csv
+products.csv
+orders.csv
+customers.csv
