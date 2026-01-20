@@ -13,7 +13,9 @@ wheels/
 # Database files
 basic_company.db
 ecommerce.db
+wiki_full_dataset.db
 reviews.csv
 products.csv
 orders.csv
 customers.csv
+WikiTableQuestions/
